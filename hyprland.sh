@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 
 uSRCFG=$HOME/.config
-hYPRFILE=$hYPRFILE
+hYPRFILE=$uSRCFG/hypr/hyprland.conf
 
 # sudo pacman -S sddm hyprland waybar dolphin hyprpaper kitty mate-terminal rofi picom
 sudo pacman -S hyprland waybar dolphin hyprpaper kitty

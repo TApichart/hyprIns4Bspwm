@@ -1,0 +1,1 @@
+# hyprIns4Bspwm
